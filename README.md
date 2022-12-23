@@ -14,6 +14,10 @@ It contains:
 
 For more details, please read the article. It explains step by step what to do to start developing on your local machine (i.e. without AWS Glue charges!).
 
+# Commands
+
+- start tests from project root `python3 -m pytest ./tests/`
+
 # Sources
 - The code is mainly copied from the official AWS Glue documentation: https://docs.aws.amazon.com/glue/latest/dg/aws-glue-programming-etl-libraries.html#develop-local-python
 
